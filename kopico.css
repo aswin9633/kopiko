@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    height:1950px;
+    width:100%;
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size:50px;
+    height:60px;
+    padding-top:50px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+h1:hover{
+   color: red;
+}
+h2{
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+}
+h4{
+    color:white;
+    margin-left:540px;
+    font-size: 18px;
+   
+    
+}
+
+.home ul li{
+    color: aliceblue;
+    display: table-cell;
+    padding-left:20px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+.home ul{
+margin-left: 450px;
+}
+
+  
+
+
+.photodiv{
+    display: flex;
+    margin-left:230px;
+    cursor: pointer;
+
+}
+.photo2{
+    padding-left: 70px;
+}
+
+
+
+h3{
+    color: aliceblue;
+    margin-left:550px;
+    margin-top:30px;
+    font-size: 22px;
+
+
+}
+.paragraph1{
+    color: grey;
+    margin-left: 250px;
+    font-size:20px;
+    padding-top:30px;
+    line-height: 35px;
+}
+.paragraph2{
+    color:grey;
+    margin-left: 250px;
+    font-size: 20px;
+    padding-top: 30px;
+    line-height: 35px;
+}
+.paragraph3{
+    color:grey;
+    margin-left:250px;
+    font-size: 20px;
+    padding-top: 180px;
+}
+.paragraph4{
+    color: grey;
+    margin-left:250px ;
+    font-size:20px;
+    padding-top:50px ;
+    line-height: 35px;
+}
+.paragraph5{
+    color:grey;
+    margin-left:250px ;
+    font-size:20px;
+    padding-top:30px;
+    line-height:35px ;
+    
+}
+.paragraph6{
+    color: grey;
+    font-size: 15px;
+    margin-left: 520px;
+    padding-top: 150px;
+}
